@@ -15,6 +15,8 @@ Services in the microservie architecture includes:
 
 ### Logging
 
+> TODO
+> - Describe ELK setup
 
 
 
